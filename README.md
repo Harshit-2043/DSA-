@@ -117,4 +117,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1657-determine-if-two-strings-are-close](https://github.com/Harshit-2043/DSA-/tree/master/1657-determine-if-two-strings-are-close) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/Harshit-2043/DSA-/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
