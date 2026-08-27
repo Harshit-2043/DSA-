@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Harshit-2043/DSA-/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Harshit-2043/DSA-/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Harshit-2043/DSA-/tree/master/0018-4sum) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Harshit-2043/DSA-/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Harshit-2043/DSA-/tree/master/1004-max-consecutive-ones-iii) |
 ## Hash Table
 |  |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Harshit-2043/DSA-/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Harshit-2043/DSA-/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Harshit-2043/DSA-/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Harshit-2043/DSA-/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Harshit-2043/DSA-/tree/master/1657-determine-if-two-strings-are-close) |
 ## Linked List
 |  |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Harshit-2043/DSA-/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Harshit-2043/DSA-/tree/master/1004-max-consecutive-ones-iii) |
 ## Counting
 |  |
