@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Harshit-2043/DSA-/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Harshit-2043/DSA-/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Harshit-2043/DSA-/tree/master/0018-4sum) |
+| [0053-maximum-subarray](https://github.com/Harshit-2043/DSA-/tree/master/0053-maximum-subarray) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Harshit-2043/DSA-/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Harshit-2043/DSA-/tree/master/1004-max-consecutive-ones-iii) |
 ## Hash Table
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Harshit-2043/DSA-/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/Harshit-2043/DSA-/tree/master/0053-maximum-subarray) |
 ## Two Pointers
 |  |
 | ------- |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Harshit-2043/DSA-/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/Harshit-2043/DSA-/tree/master/0010-regular-expression-matching) |
+| [0053-maximum-subarray](https://github.com/Harshit-2043/DSA-/tree/master/0053-maximum-subarray) |
 ## Manacher
 |  |
 | ------- |
