@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Harshit-2043/DSA-/tree/master/0073-set-matrix-zeroes) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Harshit-2043/DSA-/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Harshit-2043/DSA-/tree/master/1004-max-consecutive-ones-iii) |
+| [3524-find-x-value-of-array-i](https://github.com/Harshit-2043/DSA-/tree/master/3524-find-x-value-of-array-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Harshit-2043/DSA-/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Harshit-2043/DSA-/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/Harshit-2043/DSA-/tree/master/0050-powx-n) |
+| [3524-find-x-value-of-array-i](https://github.com/Harshit-2043/DSA-/tree/master/3524-find-x-value-of-array-i) |
 ## Recursion
 |  |
 | ------- |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/Harshit-2043/DSA-/tree/master/0010-regular-expression-matching) |
 | [0053-maximum-subarray](https://github.com/Harshit-2043/DSA-/tree/master/0053-maximum-subarray) |
 | [0072-edit-distance](https://github.com/Harshit-2043/DSA-/tree/master/0072-edit-distance) |
+| [3524-find-x-value-of-array-i](https://github.com/Harshit-2043/DSA-/tree/master/3524-find-x-value-of-array-i) |
 ## Manacher
 |  |
 | ------- |
