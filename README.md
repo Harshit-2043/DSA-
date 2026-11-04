@@ -177,16 +177,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Harshit-2043/DSA-/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0872-leaf-similar-trees](https://github.com/Harshit-2043/DSA-/tree/master/0872-leaf-similar-trees) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Harshit-2043/DSA-/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Harshit-2043/DSA-/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0872-leaf-similar-trees](https://github.com/Harshit-2043/DSA-/tree/master/0872-leaf-similar-trees) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Harshit-2043/DSA-/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Harshit-2043/DSA-/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0872-leaf-similar-trees](https://github.com/Harshit-2043/DSA-/tree/master/0872-leaf-similar-trees) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Harshit-2043/DSA-/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Matrix
 |  |
