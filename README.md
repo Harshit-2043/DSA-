@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Harshit-2043/DSA-/tree/master/0643-maximum-average-subarray-i) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Harshit-2043/DSA-/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Harshit-2043/DSA-/tree/master/1004-max-consecutive-ones-iii) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/Harshit-2043/DSA-/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [3524-find-x-value-of-array-i](https://github.com/Harshit-2043/DSA-/tree/master/3524-find-x-value-of-array-i) |
 ## Hash Table
 |  |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Harshit-2043/DSA-/tree/master/0004-median-of-two-sorted-arrays) |
 | [1004-max-consecutive-ones-iii](https://github.com/Harshit-2043/DSA-/tree/master/1004-max-consecutive-ones-iii) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/Harshit-2043/DSA-/tree/master/2300-successful-pairs-of-spells-and-potions) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/Harshit-2043/DSA-/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Harshit-2043/DSA-/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Harshit-2043/DSA-/tree/master/0443-string-compression) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/Harshit-2043/DSA-/tree/master/2300-successful-pairs-of-spells-and-potions) |
 ## String
 |  |
 | ------- |
@@ -122,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Harshit-2043/DSA-/tree/master/0018-4sum) |
 | [0242-valid-anagram](https://github.com/Harshit-2043/DSA-/tree/master/0242-valid-anagram) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Harshit-2043/DSA-/tree/master/1657-determine-if-two-strings-are-close) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/Harshit-2043/DSA-/tree/master/2300-successful-pairs-of-spells-and-potions) |
 ## Backtracking
 |  |
 | ------- |
