@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Harshit-2043/DSA-/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Harshit-2043/DSA-/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Harshit-2043/DSA-/tree/master/0345-reverse-vowels-of-a-string) |
+| [0443-string-compression](https://github.com/Harshit-2043/DSA-/tree/master/0443-string-compression) |
 ## String
 |  |
 | ------- |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Harshit-2043/DSA-/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Harshit-2043/DSA-/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Harshit-2043/DSA-/tree/master/0345-reverse-vowels-of-a-string) |
+| [0443-string-compression](https://github.com/Harshit-2043/DSA-/tree/master/0443-string-compression) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Harshit-2043/DSA-/tree/master/1657-determine-if-two-strings-are-close) |
 ## Dynamic Programming
 |  |
