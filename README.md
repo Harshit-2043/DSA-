@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Harshit-2043/DSA-/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Harshit-2043/DSA-/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Harshit-2043/DSA-/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Harshit-2043/DSA-/tree/master/0345-reverse-vowels-of-a-string) |
 ## String
 |  |
 | ------- |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Harshit-2043/DSA-/tree/master/0020-valid-parentheses) |
 | [0072-edit-distance](https://github.com/Harshit-2043/DSA-/tree/master/0072-edit-distance) |
 | [0242-valid-anagram](https://github.com/Harshit-2043/DSA-/tree/master/0242-valid-anagram) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Harshit-2043/DSA-/tree/master/0345-reverse-vowels-of-a-string) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Harshit-2043/DSA-/tree/master/1657-determine-if-two-strings-are-close) |
 ## Dynamic Programming
 |  |
