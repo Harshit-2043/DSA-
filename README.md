@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Harshit-2043/DSA-/tree/master/0018-4sum) |
 | [0053-maximum-subarray](https://github.com/Harshit-2043/DSA-/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/Harshit-2043/DSA-/tree/master/0073-set-matrix-zeroes) |
+| [0643-maximum-average-subarray-i](https://github.com/Harshit-2043/DSA-/tree/master/0643-maximum-average-subarray-i) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Harshit-2043/DSA-/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Harshit-2043/DSA-/tree/master/1004-max-consecutive-ones-iii) |
 | [3524-find-x-value-of-array-i](https://github.com/Harshit-2043/DSA-/tree/master/3524-find-x-value-of-array-i) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0643-maximum-average-subarray-i](https://github.com/Harshit-2043/DSA-/tree/master/0643-maximum-average-subarray-i) |
 | [1004-max-consecutive-ones-iii](https://github.com/Harshit-2043/DSA-/tree/master/1004-max-consecutive-ones-iii) |
 ## Prefix Sum
 |  |
