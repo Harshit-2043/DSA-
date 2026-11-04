@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/Harshit-2043/DSA-/tree/master/0072-edit-distance) |
 | [0151-reverse-words-in-a-string](https://github.com/Harshit-2043/DSA-/tree/master/0151-reverse-words-in-a-string) |
 | [0208-implement-trie-prefix-tree](https://github.com/Harshit-2043/DSA-/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/Harshit-2043/DSA-/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0242-valid-anagram](https://github.com/Harshit-2043/DSA-/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Harshit-2043/DSA-/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Harshit-2043/DSA-/tree/master/0392-is-subsequence) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Harshit-2043/DSA-/tree/master/0014-longest-common-prefix) |
 | [0208-implement-trie-prefix-tree](https://github.com/Harshit-2043/DSA-/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/Harshit-2043/DSA-/tree/master/0211-design-add-and-search-words-data-structure) |
 ## Sorting
 |  |
 | ------- |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/Harshit-2043/DSA-/tree/master/0112-path-sum) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/Harshit-2043/DSA-/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Harshit-2043/DSA-/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0872-leaf-similar-trees](https://github.com/Harshit-2043/DSA-/tree/master/0872-leaf-similar-trees) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Harshit-2043/DSA-/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -233,4 +236,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/Harshit-2043/DSA-/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/Harshit-2043/DSA-/tree/master/0211-design-add-and-search-words-data-structure) |
 <!---LeetCode Topics End-->
