@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Harshit-2043/DSA-/tree/master/0078-subsets) |
 | [0643-maximum-average-subarray-i](https://github.com/Harshit-2043/DSA-/tree/master/0643-maximum-average-subarray-i) |
 | [0735-asteroid-collision](https://github.com/Harshit-2043/DSA-/tree/master/0735-asteroid-collision) |
+| [0746-min-cost-climbing-stairs](https://github.com/Harshit-2043/DSA-/tree/master/0746-min-cost-climbing-stairs) |
 | [0875-koko-eating-bananas](https://github.com/Harshit-2043/DSA-/tree/master/0875-koko-eating-bananas) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Harshit-2043/DSA-/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Harshit-2043/DSA-/tree/master/1004-max-consecutive-ones-iii) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Harshit-2043/DSA-/tree/master/0053-maximum-subarray) |
 | [0072-edit-distance](https://github.com/Harshit-2043/DSA-/tree/master/0072-edit-distance) |
 | [0392-is-subsequence](https://github.com/Harshit-2043/DSA-/tree/master/0392-is-subsequence) |
+| [0746-min-cost-climbing-stairs](https://github.com/Harshit-2043/DSA-/tree/master/0746-min-cost-climbing-stairs) |
 | [3524-find-x-value-of-array-i](https://github.com/Harshit-2043/DSA-/tree/master/3524-find-x-value-of-array-i) |
 ## Manacher
 |  |
