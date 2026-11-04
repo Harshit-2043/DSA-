@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Harshit-2043/DSA-/tree/master/0018-4sum) |
 | [0053-maximum-subarray](https://github.com/Harshit-2043/DSA-/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/Harshit-2043/DSA-/tree/master/0073-set-matrix-zeroes) |
+| [0078-subsets](https://github.com/Harshit-2043/DSA-/tree/master/0078-subsets) |
 | [0643-maximum-average-subarray-i](https://github.com/Harshit-2043/DSA-/tree/master/0643-maximum-average-subarray-i) |
 | [0735-asteroid-collision](https://github.com/Harshit-2043/DSA-/tree/master/0735-asteroid-collision) |
 | [0875-koko-eating-bananas](https://github.com/Harshit-2043/DSA-/tree/master/0875-koko-eating-bananas) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Harshit-2043/DSA-/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0078-subsets](https://github.com/Harshit-2043/DSA-/tree/master/0078-subsets) |
 ## Stack
 |  |
 | ------- |
@@ -206,4 +208,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/Harshit-2043/DSA-/tree/master/0142-linked-list-cycle-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Harshit-2043/DSA-/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
