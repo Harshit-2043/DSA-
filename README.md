@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Harshit-2043/DSA-/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Harshit-2043/DSA-/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Harshit-2043/DSA-/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/Harshit-2043/DSA-/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Harshit-2043/DSA-/tree/master/0443-string-compression) |
 ## String
 |  |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Harshit-2043/DSA-/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Harshit-2043/DSA-/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Harshit-2043/DSA-/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/Harshit-2043/DSA-/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Harshit-2043/DSA-/tree/master/0443-string-compression) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Harshit-2043/DSA-/tree/master/1657-determine-if-two-strings-are-close) |
 ## Dynamic Programming
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/Harshit-2043/DSA-/tree/master/0010-regular-expression-matching) |
 | [0053-maximum-subarray](https://github.com/Harshit-2043/DSA-/tree/master/0053-maximum-subarray) |
 | [0072-edit-distance](https://github.com/Harshit-2043/DSA-/tree/master/0072-edit-distance) |
+| [0392-is-subsequence](https://github.com/Harshit-2043/DSA-/tree/master/0392-is-subsequence) |
 | [3524-find-x-value-of-array-i](https://github.com/Harshit-2043/DSA-/tree/master/3524-find-x-value-of-array-i) |
 ## Manacher
 |  |
